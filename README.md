@@ -29,8 +29,6 @@ This chapter provides an introduction to C++, its features, and its significance
 - [History and Evolution of C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - [Standard Template Library (STL)](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
 
-### Downloads
-[Download Chapter 1: Introduction to C++](#)
 
 ### Exercise:
 Write a basic C++ program that outputs `"Hello, World!"`. [Learn More](https://www.programiz.com/cpp-programming/examples/hello-world)
@@ -47,8 +45,6 @@ Learn how to set up the tools and environment necessary for C++ development on v
 - [Choosing an IDE or Text Editor (VS Code, CLion, etc.)](https://code.visualstudio.com/)
 - [Configuring Build Tools (Makefile, CMake)](https://cmake.org/)
 
-### Downloads
-[Download Chapter 2: Setting Up Your Environment](#)
 
 ### Environment Setup Instructions
 - **macOS:** Install Xcode Command Line Tools or GCC.
@@ -71,8 +67,6 @@ This chapter covers the fundamental elements of C++ programming, including data 
 - [Operators (Arithmetic, Logical, Relational)](https://www.programiz.com/cpp-programming/operators)
 - [Control Statements (if, else, switch, loops)](https://www.programiz.com/cpp-programming/control-statements)
 
-### Downloads
-[Download Chapter 3: C++ Basics](#)
 
 ### Exercise:
 Write a program that calculates the sum of the first N natural numbers using a loop.
@@ -90,8 +84,6 @@ C++ is a pioneer of object-oriented programming. This chapter explores the core 
 - [Inheritance and Polymorphism](https://www.geeksforgeeks.org/inheritance-in-c/)
 - [Encapsulation and Abstraction](https://www.geeksforgeeks.org/abstraction-in-c/)
 
-### Downloads
-[Download Chapter 4: Object-Oriented Programming](#)
 
 ### Exercise:
 Create a simple class hierarchy for shapes (Circle, Rectangle, Triangle) and calculate their areas.
@@ -109,8 +101,6 @@ This chapter introduces essential data structures and algorithms to enhance your
 - [Maps and Sets](https://en.cppreference.com/w/cpp/container)
 - [Sorting Algorithms (Quick Sort, Merge Sort)](https://www.geeksforgeeks.org/sorting-algorithms/)
 
-### Downloads
-[Download Chapter 5: Data Structures and Algorithms](#)
 
 ### Exercise:
 Implement a stack using an array and provide basic stack operations (push, pop, peek).
@@ -127,8 +117,6 @@ Handle errors and exceptions gracefully in your programs using C++ exception han
 - [Try, Catch, Throw](https://www.geeksforgeeks.org/exception-handling-c/)
 - [Custom Exceptions](https://www.geeksforgeeks.org/user-defined-exceptions-in-c/)
 
-### Downloads
-[Download Chapter 6: Exception Handling](#)
 
 ### Exercise:
 Write a program that handles division by zero exception gracefully.
@@ -145,8 +133,6 @@ Learn how to work with input/output streams and file handling in C++.
 - [File Handling](https://www.geeksforgeeks.org/file-handling-c-classes/)
 - [Reading and Writing Files](https://www.programiz.com/cpp-programming/examples/read-write-file)
 
-### Downloads
-[Download Chapter 7: Input/Output Operations](#)
 
 ### Exercise:
 Write a program that reads data from one file and writes it to another.
@@ -163,8 +149,6 @@ Understand C++'s multithreading features to write parallel and concurrent progra
 - [Thread Synchronization](https://en.cppreference.com/w/cpp/thread/mutex)
 - [Using std::thread](https://www.geeksforgeeks.org/stdthread-in-c/)
 
-### Downloads
-[Download Chapter 8: Multithreading and Concurrency](#)
 
 ### Exercise:
 Create a multithreaded program to compute the factorial of multiple numbers concurrently.
@@ -181,8 +165,6 @@ Explore tools and libraries for building graphical user interfaces in C++.
 - [Simple Widgets (Buttons, Text Fields)](https://doc.qt.io/qt-5/qtwidgets-module.html)
 - [Event Handling in Qt](https://doc.qt.io/qt-5/signalsandslots.html)
 
-### Downloads
-[Download Chapter 9: GUI Development](#)
 
 ### Exercise:
 Build a simple text editor GUI using the Qt framework.
@@ -199,8 +181,6 @@ Familiarize yourself with popular C++ libraries and frameworks to expand your sk
 - [Google Test Framework (GTest)](https://google.github.io/googletest/)
 - [Serialization with Protobuf](https://developers.google.com/protocol-buffers)
 
-### Downloads
-[Download Chapter 10: Libraries and Frameworks](#)
 
 ### Exercise:
 Write and test a simple C++ program using the Google Test Framework.
@@ -218,3 +198,16 @@ This repository is licensed under the [MIT License](LICENSE). See the LICENSE fi
 ---
 
 Happy Coding! 🚀
+
+---
+
+## Disclaimer
+
+The programming languages, resources, downloads, and links provided in this repository are the property of their respective owners, creators, and contributors. This repository is intended solely for educational purposes to help learners gain an understanding of each language, how to download and install the required tools, and how to start programming effectively.
+
+The content shared is purely for learning and informational purposes and is not intended to infringe on any copyrights or intellectual property rights. If you are the rightful owner of any resource or content and wish to have it removed, please contact me directly, and I will promptly take the necessary actions to comply with your request.
+
+All credit for the resources, libraries, and tools mentioned in this repository belongs to their respective authors.
+
+
+---
